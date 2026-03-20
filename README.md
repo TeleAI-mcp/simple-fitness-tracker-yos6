@@ -1,2 +1,3 @@
-# simple-fitness-tracker-yos6
-Automated issue comment bot repository
+# Simple Fitness Tracker Yos6
+
+Automated issue comment bot repository.
